@@ -1,4 +1,4 @@
-## Featured Repos
+## Repos
 
 ### Game Mods
 * [nsmb-e3-rec](https://github.com/mariomadproductions/mariomadproductions/)
