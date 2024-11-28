@@ -1,4 +1,5 @@
 ## Repos
+Excluding forks
 
 ### Game Mods
 * [nsmb-e3-rec](https://github.com/mariomadproductions/mariomadproductions/)
@@ -9,3 +10,4 @@
 * [nxdumptool-card-id-set-to-strings](https://github.com/mariomadproductions/nxdumptool-card-id-set-to-strings)
 * [cdecrypt-wrapper](https://github.com/mariomadproductions/cdecrypt-wrapper)
 * [ines-header-remove](https://github.com/mariomadproductions/ines-header-remove)
+
