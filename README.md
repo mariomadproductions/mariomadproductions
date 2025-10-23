@@ -1,5 +1,5 @@
 ## Repos
-Excluding temporary forks made for pull request purposes
+Excluding temporary forks used for pull requests.
 
 ### Game Mods
 * [nsmb-e3-rec](https://github.com/mariomadproductions/mariomadproductions/)
