@@ -11,3 +11,5 @@ Excluding temporary forks for pull request purposes
 * [cdecrypt-wrapper](https://github.com/mariomadproductions/cdecrypt-wrapper)
 * [ines-header-remove](https://github.com/mariomadproductions/ines-header-remove)
 
+### Lists
+* [dump-fixing-tools](https://github.com/mariomadproductions/dump-fixing-tools)
