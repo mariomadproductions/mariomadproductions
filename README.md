@@ -1,5 +1,5 @@
 ## Repos
-Excluding temporary forks used for pull requests. Contributions welcome.
+Contributions welcome.
 
 ### Game Mods
 * [nsmb-e3-rec](https://github.com/mariomadproductions/mariomadproductions/)
@@ -13,3 +13,6 @@ Excluding temporary forks used for pull requests. Contributions welcome.
 
 ### Lists
 * [dump-fixing-tools](https://github.com/mariomadproductions/dump-fixing-tools)
+
+----
+(this repo list excludes temporary forks used for pull requests)
