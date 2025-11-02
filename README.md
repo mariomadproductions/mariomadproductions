@@ -4,7 +4,7 @@ Contributions welcome.
 <sub>(This  list excludes temporary forks used for pull requests.)</sub>
 
 ### Game Mods
-* [nsmb-e3-rec](https://github.com/mariomadproductions/mariomadproductions/)
+* [nsmb-e3-rec](https://github.com/mariomadproductions/nsmb-e3-rec)
 * [nsmb2-levels](https://github.com/mariomadproductions/nsmb2-levels)
 
 ### Scripts
