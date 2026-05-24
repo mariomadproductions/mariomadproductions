@@ -8,6 +8,8 @@ Contributions welcome.
 * [nsmb2-levels](https://github.com/mariomadproductions/nsmb2-levels)
 
 ### Scripts
+Very simple scripts
+
 * [ds-underdumped-header-fixer](https://github.com/mariomadproductions/ds-underdumped-header-fixer)
 * [nxdumptool-card-id-set-to-strings](https://github.com/mariomadproductions/nxdumptool-card-id-set-to-strings)
 * [cdecrypt-wrapper](https://github.com/mariomadproductions/cdecrypt-wrapper)
