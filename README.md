@@ -1,5 +1,5 @@
 ## Repos
-Contributions welcome. Note: none of these repos have LLM-generated code.
+Contributions welcome. Note: none of these repos have LLM-generated content.
 <br>
 <sub>(This  list excludes temporary forks used for pull requests.)</sub>
 
