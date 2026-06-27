@@ -1,7 +1,7 @@
 ## Repos
 Contributions welcome. Note: none of these repos have LLM-generated content.
 <br>
-<sub>(This  list excludes temporary forks used for pull requests.)</sub>
+<sub>(The following list excludes temporary forks used for pull requests.)</sub>
 
 ### Game Mods
 * [nsmb-e3-rec](https://github.com/mariomadproductions/nsmb-e3-rec)
