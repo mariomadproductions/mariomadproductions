@@ -14,7 +14,7 @@ Very simple scripts
 * [nxdumptool-card-id-set-to-strings](https://github.com/mariomadproductions/nxdumptool-card-id-set-to-strings)
 * [cdecrypt-wrapper](https://github.com/mariomadproductions/cdecrypt-wrapper)
 * [ines-header-remove](https://github.com/mariomadproductions/ines-header-remove)
-* [redump-dat-url-get](https://github.com/mariomadproductionsredump-dat-url-get)
+* [redump-dat-url-get](https://github.com/mariomadproductions/redump-dat-url-get)
 
 ### Lists
 * [dump-fixing-tools](https://github.com/mariomadproductions/dump-fixing-tools)
