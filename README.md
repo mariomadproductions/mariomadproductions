@@ -18,5 +18,6 @@ Very simple scripts
 
 ### Lists
 * [dump-fixing-tools](https://github.com/mariomadproductions/dump-fixing-tools)
+* [redump-issue-tracker](https://github.com/mariomadproductions/redump-issue-tracker)
 
 
