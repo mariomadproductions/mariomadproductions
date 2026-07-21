@@ -11,6 +11,7 @@ Contributions welcome. Note: none of these repos have LLM-generated content.
 Very simple scripts
 
 * [ds-underdumped-header-fixer](https://github.com/mariomadproductions/ds-underdumped-header-fixer)
+* [vimmhash](https://github.com/mariomadproductions/vimmhash)
 * [nxdumptool-card-id-set-to-strings](https://github.com/mariomadproductions/nxdumptool-card-id-set-to-strings)
 * [cdecrypt-wrapper](https://github.com/mariomadproductions/cdecrypt-wrapper)
 * [ines-header-remove](https://github.com/mariomadproductions/ines-header-remove)
