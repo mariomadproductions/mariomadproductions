@@ -17,8 +17,10 @@ Very simple scripts
 * [ines-header-remove](https://github.com/mariomadproductions/ines-header-remove)
 * [redump-dat-url-get](https://github.com/mariomadproductions/redump-dat-url-get)
 
+### Personal libraries
+* [py-util](https://github.com/mariomadproductions/py-util)
+
 ### Lists
 * [dump-fixing-tools](https://github.com/mariomadproductions/dump-fixing-tools)
 * [redump-issue-tracker](https://github.com/mariomadproductions/redump-issue-tracker)
-
 
