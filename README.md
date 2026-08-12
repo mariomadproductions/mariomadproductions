@@ -1,5 +1,5 @@
 ## Repos
-Contributions welcome. Note: none of my commits have LLM-generated content.
+Contributions welcome. Note: none of my contributions are LLM-generated content.
 <br>
 <sub>(The following list excludes temporary forks used for pull requests.)</sub>
 
