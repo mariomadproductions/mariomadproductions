@@ -21,6 +21,6 @@ Very simple scripts
 * [py-util](https://github.com/mariomadproductions/py-util)
 
 ### Lists
-* [dump-fixing-tools](https://github.com/mariomadproductions/dump-fixing-tools)
+* [dump-fixing-tools-list](https://github.com/mariomadproductions/dump-fixing-tools-list)
 * [redump-issue-tracker-unofficial](https://github.com/mariomadproductions/redump-issue-tracker-unofficial)
 
