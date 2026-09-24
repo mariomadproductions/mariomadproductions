@@ -16,6 +16,7 @@ Very simple scripts
 * [cdecrypt-wrapper](https://github.com/mariomadproductions/cdecrypt-wrapper)
 * [ines-header-remove](https://github.com/mariomadproductions/ines-header-remove)
 * [redump-dat-url-get](https://github.com/mariomadproductions/redump-dat-url-get)
+* [workupload-auto-submit](https://github.com/mariomadproductions/workupload-auto-submit)
 
 ### Personal libraries
 * [py-util](https://github.com/mariomadproductions/py-util)
