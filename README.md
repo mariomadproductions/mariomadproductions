@@ -17,6 +17,7 @@ Very simple scripts
 * [ines-header-remove](https://github.com/mariomadproductions/ines-header-remove)
 * [redump-dat-url-get](https://github.com/mariomadproductions/redump-dat-url-get)
 * [workupload-auto-submit](https://github.com/mariomadproductions/workupload-auto-submit)
+* [remotezip-list-crc32](https://github.com/mariomadproductions/remotezip-list-crc32)
 
 ### Personal libraries
 * [py-util](https://github.com/mariomadproductions/py-util)
