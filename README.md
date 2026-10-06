@@ -1,7 +1,5 @@
 ## Repos
-Contributions welcome. Note: none of my contributions are LLM-generated.
-<br>
-<sub>(The following list excludes temporary forks used for pull requests.)</sub>
+Last time a repo was added: 2026-09-26.
 
 ### Game Mods
 * [nsmb-e3-rec](https://github.com/mariomadproductions/nsmb-e3-rec)
@@ -26,3 +24,4 @@ Very simple scripts
 * [dump-fixing-tools-list](https://github.com/mariomadproductions/dump-fixing-tools-list)
 * [redump-issue-tracker-unofficial](https://github.com/mariomadproductions/redump-issue-tracker-unofficial)
 
+<sub>(Notes: This list excludes temporary forks used for pull requests. None of my contributions are LLM-generated.)</sub>
